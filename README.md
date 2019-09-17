@@ -1,8 +1,13 @@
 # CS-Net
+<div align="center">
+<img src="/image/csnet.png" height="640" width="400" >
+<p>Overview of context splicing network.</p>
+</div>
 
-![Overview of context splicing network.](/image/csnet.png?raw=true)
-
-![Overview of CS module.](/image/cs-block.png?raw=true)
+<div align="center">
+<img src="/image/cs-block.png" height="480" width="480" >
+<p>Overview of CS module.</p>
+</div>
 
 ## Introduction
 Automated volumetric medical image segmentation algorithms are highly demanded in 
@@ -24,22 +29,20 @@ Comprehensive results show that CS-Net outperforms the original U-Net and the
 recent proposed CE-Net for liver segmentation and kidney segmentation and has 
 competitive tumor segmentation results.Some example results are showed below:
 
-<div align="center">
-<img src="/image/chaos-exam.png" height="330" width="330" >
-</div>
-
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/chaos-exam.png?raw=true)
-
+Sample results of liver segmentation on CHAOS. 
+From left to right: original images, ground truth, 
+CS-Net, CE-Net and U-Net
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/lits-exam.png?raw=true)
-
+Sample results of liver segmentation and tumor segmentation on LiTS. From left to right: original images, ground truth, CS-Net, CE-Net and U-Net
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/kits-exam.png?raw=true)
-
+Sample results of kidney segmentation and tumor segmentation on KiTS. From left to right: original images, ground truth, CS-Net, CE-Net and U-Net
 ## Usage
 
 In this repository, we provide the implementation of CS-Net which is based on nnUNet. It’s worth noting that we change the input from one channel to three channels. 
