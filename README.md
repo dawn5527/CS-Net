@@ -24,6 +24,10 @@ Comprehensive results show that CS-Net outperforms the original U-Net and the
 recent proposed CE-Net for liver segmentation and kidney segmentation and has 
 competitive tumor segmentation results.Some example results are showed below:
 
+<div align="center">
+<img src="/image/chaos-exam.png" height="330" width="330" >
+</div>
+
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/chaos-exam.png?raw=true)
