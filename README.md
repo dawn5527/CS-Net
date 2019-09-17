@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="/image/cs-block.png" height="480" width="480" >
+<img src="/image/cs-block.png" height="400" width="480" >
 <p>Overview of CS module.</p>
 </div>
 
