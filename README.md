@@ -1,6 +1,6 @@
 # CS-Net
 <div align="center">
-<img src="/image/csnet.png" height="640" width="400" >
+<img src="/image/csnet.png" height="480" width="640" >
 <p>Overview of context splicing network.</p>
 </div>
 
@@ -32,17 +32,17 @@ competitive tumor segmentation results.Some example results are showed below:
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/chaos-exam.png?raw=true)
-Sample results of liver segmentation on CHAOS. 
-From left to right: original images, ground truth, 
-CS-Net, CE-Net and U-Net
+**Sample results of liver segmentation on CHAOS.**
+
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/lits-exam.png?raw=true)
-Sample results of liver segmentation and tumor segmentation on LiTS. From left to right: original images, ground truth, CS-Net, CE-Net and U-Net
+**Sample results of liver segmentation and tumor segmentation on LiTS**
+
 ![Sample results of liver segmentation on CHAOS. 
 From left to right: original images, ground truth, 
 CS-Net, CE-Net and U-Net](/image/kits-exam.png?raw=true)
-Sample results of kidney segmentation and tumor segmentation on KiTS. From left to right: original images, ground truth, CS-Net, CE-Net and U-Net
+**Sample results of kidney segmentation and tumor segmentation on KiTS.**
 ## Usage
 
 In this repository, we provide the implementation of CS-Net which is based on nnUNet. It’s worth noting that we change the input from one channel to three channels. 
