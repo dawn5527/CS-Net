@@ -1,6 +1,6 @@
 # CS-Net
 <div align="center">
-<img src="/image/csnet.png" height="480" width="640" >
+<img src="/image/csnet.png" height="400" width="700" >
 <p>Overview of context splicing network.</p>
 </div>
 
