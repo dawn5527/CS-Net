@@ -55,7 +55,7 @@ To set up CS-Net, follow the exactly same steps nnUNet given. Search `"set your 
 ## Acknowledgment
 This project is created based on [nnUnet](https://github.com/MIC-DKFZ/nnUNet), 
 [deeplabv3+](https://github.com/jfzhang95/pytorch-deeplab-xception) 
-and [DANet](https://github.com/junfu1115/DANet) and the authors retain all the copyright 
+and [DANet](https://github.com/junfu1115/DANet). And the authors retain all the copyright 
 of the related codes. 
 
 ## Thanks to the reposities for study
